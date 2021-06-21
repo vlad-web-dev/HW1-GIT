@@ -1,0 +1,41 @@
+eed826a HEAD@{0}: merge develop: Fast-forward
+65aaf56 HEAD@{1}: checkout: moving from develop to master
+eed826a HEAD@{2}: merge feature4: Fast-forward
+472c32e HEAD@{3}: checkout: moving from feature4 to develop
+eed826a HEAD@{4}: rebase (finish): returning to refs/heads/feature4
+eed826a HEAD@{5}: rebase (pick): added style for img
+472c32e HEAD@{6}: rebase (start): checkout develop
+2e3d851 HEAD@{7}: checkout: moving from develop to feature4
+472c32e HEAD@{8}: merge feature3: Fast-forward
+f75fdf5 HEAD@{9}: checkout: moving from feature3 to develop
+472c32e HEAD@{10}: rebase (finish): returning to refs/heads/feature3
+472c32e HEAD@{11}: rebase (pick): added style for img
+f75fdf5 HEAD@{12}: rebase (start): checkout develop
+e09b832 HEAD@{13}: checkout: moving from develop to feature3
+f75fdf5 HEAD@{14}: commit: changed body style
+65aaf56 HEAD@{15}: checkout: moving from feature3 to develop
+e09b832 HEAD@{16}: checkout: moving from master to feature3
+65aaf56 HEAD@{17}: merge develop: Fast-forward
+3453dc8 HEAD@{18}: checkout: moving from develop to master
+65aaf56 HEAD@{19}: checkout: moving from feature3 to develop
+e09b832 HEAD@{20}: checkout: moving from develop to feature3
+65aaf56 HEAD@{21}: checkout: moving from feature4 to develop
+2e3d851 HEAD@{22}: commit: added style for img
+65aaf56 HEAD@{23}: checkout: moving from develop to feature4
+65aaf56 HEAD@{24}: checkout: moving from feature4 to develop
+e09b832 HEAD@{25}: checkout: moving from feature3 to feature4
+e09b832 HEAD@{26}: commit: added style for img
+65aaf56 HEAD@{27}: checkout: moving from develop to feature3
+65aaf56 HEAD@{28}: checkout: moving from develop to develop
+65aaf56 HEAD@{29}: merge feature2: Merge made by the 'recursive' strategy.
+28d39aa HEAD@{30}: merge feature1: Fast-forward
+71db179 HEAD@{31}: checkout: moving from feature2 to develop
+4fd0eba HEAD@{32}: commit: added style for body
+71db179 HEAD@{33}: checkout: moving from develop to feature2
+71db179 HEAD@{34}: checkout: moving from feature1 to develop
+28d39aa HEAD@{35}: commit: added images to html
+03cbd8a HEAD@{36}: commit: added images
+71db179 HEAD@{37}: checkout: moving from develop to feature1
+71db179 HEAD@{38}: commit: added index.html
+3453dc8 HEAD@{39}: checkout: moving from master to develop
+3453dc8 HEAD@{40}: commit (initial): init
