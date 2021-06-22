@@ -1,0 +1,14 @@
+8ce7a0e HEAD@{0}: merge develop: Fast-forward
+2fdca02 HEAD@{1}: checkout: moving from develop to master
+8ce7a0e HEAD@{2}: merge feature5: Fast-forward
+2fdca02 HEAD@{3}: checkout: moving from feature5 to develop
+8ce7a0e HEAD@{4}: rebase (finish): returning to refs/heads/feature5
+8ce7a0e HEAD@{5}: rebase (fixup): changed styles
+5ba4af9 HEAD@{6}: rebase (reword): changed styles
+c286e79 HEAD@{7}: rebase: fast-forward
+2fdca02 HEAD@{8}: rebase (start): checkout HEAD~2
+709963c HEAD@{9}: commit: changed body bg color
+c286e79 HEAD@{10}: commit: changed style for img
+2fdca02 HEAD@{11}: checkout: moving from develop to feature5
+2fdca02 HEAD@{12}: checkout: moving from master to develop
+2fdca02 HEAD@{13}: clone: from https://github.com/vlad-web-dev/HW1-GIT.git
