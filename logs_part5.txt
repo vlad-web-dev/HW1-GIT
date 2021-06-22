@@ -1,0 +1,9 @@
+a9e5341 HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+8d0b979 HEAD@{1}: checkout: moving from develop to master
+8c6068f HEAD@{2}: cherry-pick: added changes
+27cfaff HEAD@{3}: checkout: moving from feature7 to develop
+78cea61 HEAD@{4}: checkout: moving from develop to feature7
+27cfaff HEAD@{5}: checkout: moving from feature7 to develop
+aabdd1f HEAD@{6}: commit: added changes
+122abd6 HEAD@{7}: checkout: moving from develop to feature7
+122abd6 HEAD@{8}: checkout: moving from master to develop
