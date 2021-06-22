@@ -1,0 +1,4 @@
+1f649dc HEAD@{0}: reset: moving to HEAD~2
+d9b3e65 HEAD@{1}: commit: added changes to README
+2ba8612 HEAD@{2}: commit: added changes
+8ce7a0e HEAD@{3}: checkout: moving from master to develop
