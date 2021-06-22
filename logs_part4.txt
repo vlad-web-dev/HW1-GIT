@@ -1,0 +1,9 @@
+d670306 HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+4f36059 HEAD@{1}: checkout: moving from develop to master
+122abd6 HEAD@{2}: commit (merge): Merge branch 'feature6' into develop
+1c03668 HEAD@{3}: commit: added changes
+4a10c42 HEAD@{4}: checkout: moving from feature6 to develop
+fdbeb15 HEAD@{5}: commit: added changes
+4a10c42 HEAD@{6}: checkout: moving from develop to feature6
+4a10c42 HEAD@{7}: commit: added page.html
+8ce7a0e HEAD@{8}: checkout: moving from master to develop
